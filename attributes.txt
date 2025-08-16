@@ -1,0 +1,51 @@
+Age
+Gender
+Days Since Last Login
+Average Time Spent (minutes)
+Average Transaction Value
+Points in Wallet
+Region Category	
+Membership Category
+Joined Through Referral?
+Preferred Offer Type
+Medium of Operation
+Internet Option
+Used Special Discount?
+Offer Application Preference?
+Past Complaint?
+Feedback
+Date
+Time (HH:MM:SS)
+
+
+
+/////////////////////////////////
+age
+gender
+last_login
+avg_time_spent
+avg_transaction_value
+points_in_wallet
+region_category
+membership_category
+joined_through_referral
+preferred_offer_types
+medium_of_operation
+internet_option
+used_special_discount
+offer_application_preference
+past_complaint
+feedback
+date
+time
+
+
+
+
+
+
+
+
+
+
+
